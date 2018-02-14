@@ -1,2 +1,2 @@
-# lakrica.github.io
+# komronbek.github.io
 github.io
